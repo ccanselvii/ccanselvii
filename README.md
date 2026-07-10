@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Can 👋
 
-<!--
-**ccanselvii/ccanselvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at İzmir Institute of Technology (IZTECH), 
+currently studying at Technische Hochschule Mittelhessen (THM) as an Erasmus exchange student in Germany.
 
-Here are some ideas to get you started:
+I enjoy building software and learning how it works behind the scenes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my interest is in object-oriented programming, backend development, and software engineering, and I'm also curious about artificial intelligence and machine learning.
+
+Right now, I'm focused on improving my programming skills through university projects and personal learning.
+
+## Things I enjoy working on
+
+- ☕ Java
+- 🧩 Object-Oriented Programming
+- ⚙️ Backend Development
+- 🗄️ Databases
+- 🤖 Artificial Intelligence
