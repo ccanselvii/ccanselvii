@@ -1,6 +1,6 @@
 # Hi, I'm Can 👋
 
-I'm a Computer Engineering student at İzmir Institute of Technology (IZTECH), 
+I'm a Computer Engineering student at Izmir Institute of Technology (IZTECH), 
 currently studying at Technische Hochschule Mittelhessen (THM) as an Erasmus exchange student in Germany.
 
 I enjoy building software and learning how it works behind the scenes. 
